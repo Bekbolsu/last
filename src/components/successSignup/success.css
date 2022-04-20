@@ -1,0 +1,7 @@
+.success {
+  border: 1px solid white;
+  color: yellow;
+  margin-top: 150px;
+  border-radius: 30px;
+  background-color: rgb(26, 26, 26);
+}
